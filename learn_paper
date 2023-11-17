@@ -1,0 +1,14 @@
+车辆预测
+	Multimodal CNN Prediction: https://arxiv.org/pdf/1809.10732.pdf
+	MultiPath : https://arxiv.org/pdf/1910.05449.pdf
+	VectorNet : https://arxiv.org/pdf/2005.04259.pdf
+	TNT : https://arxiv.org/pdf/2008.08294.pdf
+行人预测
+	Social LSTM : https://cvgl.stanford.edu/papers/CVPR16_Social_LSTM.pdf
+	Social STGCNN : https://arxiv.org/pdf/2002.11927.pdf
+BEV
+	HDMapNet：https://arxiv.org/abs/2107.06307
+	DETR3D：https://arxiv.org/abs/2110.06922
+	FUTR3D：https://arxiv.org/abs/2203.10642
+	BEVFormer：https://arxiv.org/pdf/2203.17270.pdf
+	VectorMapNet：https://arxiv.org/abs/2206.08920
